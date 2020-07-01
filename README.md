@@ -9,6 +9,12 @@
 - [GitHub](https://github.com/JJJoonngg)
 - whdtls3878@gmail.com
 
+---
+
+### **경력**
+
+- 모아이스 - 안드로이드 개발 2020.07 ~
+
 ------
 
 ### 학력
