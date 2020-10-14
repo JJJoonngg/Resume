@@ -1,10 +1,8 @@
 # **김종신**
 
-### Android, Algorithm
-
-------
-
 ### About Me
+
+- **Android Developer**
 
 - [GitHub](https://github.com/JJJoonngg)
 - whdtls3878@gmail.com
@@ -13,7 +11,8 @@
 
 ### **경력**
 
-- 모아이스 - 안드로이드 개발 2020.07 ~
+- [모아이스](https://www.rocketpunch.com/companies/moais)
+  - 안드로이드 개발 2020.07 ~
 
 ------
 
@@ -34,21 +33,14 @@
 
 ### Android
 
+- Architecture : MVP, MVVM
+- Language : Kotlin, Java
+
 - [개인 공부 GitHub](https://github.com/JJJoonngg/AndroidStudy)
 
-- BoostCourse 
+- BoostCourse - edwith  [수료증](http://www.edwith.org/certificate/A20200503-702943?langCode=ko)
 
-  - PTJ - 1 ~ 8 Pass
-
-    <img width="200" height = "100" alt="PTJ1" src="https://user-images.githubusercontent.com/52276038/77164794-5a6ed980-6af4-11ea-8b3c-1afe4f433f4c.png">  <img src ="https://user-images.githubusercontent.com/52276038/77546692-9092cb80-6eef-11ea-8409-ea748167d327.png" width = "200" height = "100" alt = "PTJ2">  <img src = "https://user-images.githubusercontent.com/52276038/77546699-925c8f00-6eef-11ea-81b3-261b45c45158.png" width = "200" height = "100" alt = "PTJ3">
-
-    <img src = "https://user-images.githubusercontent.com/52276038/77820959-8825d500-7129-11ea-96ba-5c3a0d2e4dd6.png" width = "200" height = "100">  <img src = "https://user-images.githubusercontent.com/52276038/79060231-b07f0900-7cbd-11ea-82bc-c95b7e3aad1e.png" width = "200" height = "100">  <img src = "https://user-images.githubusercontent.com/52276038/80184393-790d4680-8645-11ea-95ee-91b29073dd6f.png" width = "200" height = "100">
-
-    <img src = "https://user-images.githubusercontent.com/52276038/80730472-990ca080-8b44-11ea-8838-e4aa6913ed0c.png" width = "200" height = "100">  <img src = "https://user-images.githubusercontent.com/52276038/80913420-72867980-8d7f-11ea-8184-5e86d3ddcd52.png" width = "200" height = "100">
-
-  - [수료증](http://www.edwith.org/certificate/A20200503-702943?langCode=ko)
-
-    <img src = "https://user-images.githubusercontent.com/52276038/80913422-74503d00-8d7f-11ea-8898-377f4fd16599.png" width = "200" height = "100">
+  <img src = "https://user-images.githubusercontent.com/52276038/80913422-74503d00-8d7f-11ea-8898-377f4fd16599.png" width = "400" >
 
   
 
