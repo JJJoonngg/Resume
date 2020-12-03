@@ -97,3 +97,19 @@
 
 ---
 
+- Beer. - 비어닷
+
+  세계맥주에 대한 정보를 담은 Application
+
+  <img src= "https://user-images.githubusercontent.com/52276038/101013065-14d13e80-35a7-11eb-9848-0b9f71dd26dd.png" width="120"> <img src ="https://user-images.githubusercontent.com/52276038/101013077-17cc2f00-35a7-11eb-83fe-fc71268d4e32.png" width="120">
+
+  - [Repository](https://github.com/landvibe-service/beereverything-android)
+  - [PlayStore](https://play.google.com/store/apps/details?id=com.landvibe.beereverything)
+  - 주로 ui 작업 위주로 참여
+  - `Android 10` `Android Studio 4.0.1` `kotlin`
+  - `Mvvm pattern` `Livedata` `Firebase` `Data Binding`
+
+---
+
+
+
