@@ -1,22 +1,28 @@
-# **김종신**
+# **김종신** :bell: 
+
+```
+I am Kim Jong-shin, a developer of Android who pursues 'well' 
+rather than 'hard' and tries to 'work hard' as well.
+'열심히' 보단 '잘' 을 추구하며 또한 '열심히' 도 하려하는 안드로이드 개발자 김종신입니다.
+```
 
 ### About Me
 
-- **Android Developer**
+- **Android Developer** :computer:
 
 - [GitHub](https://github.com/JJJoonngg)
 - whdtls3878@gmail.com
 
 ---
 
-### **경력**
+### **경력** :man_factory_worker:
 
 - [모아이스](https://www.rocketpunch.com/companies/moais)
   - 안드로이드 개발 2020.07 ~
 
 ------
 
-### 학력
+### 학력 :school::man_student:
 
 - 안산 원곡고등학교
 - 한신대학교 / 컴퓨터공학과 (중퇴)
@@ -24,14 +30,14 @@
 
 ------
 
-### Algorithm
+### Algorithm:zap:
 
 - [GitHub](https://github.com/JJJoonngg/Algorithm)
 - [백준](https://www.acmicpc.net/user/whdtls3878)
 
 ------
 
-### Android
+### Android :sunny:
 
 - Architecture : MVP, MVVM
 - Language : Kotlin, Java
@@ -46,15 +52,15 @@
 
 ------
 
-### 기타 공부
+### 기타 공부 :book:
 
 - [GitHub](https://github.com/JJJoonngg/etc)
 
 ------
 
-### 프로젝트
+### 프로젝트 :film_projector:
 
-- Sake Of Alba : 급여 관리 어플리케이션
+- Sake Of Alba : 급여 관리 어플리케이션 :money_with_wings:
 
   FIrebase와 Calendar를 사용하여 급여를 관리해주는 앱
 
@@ -65,7 +71,7 @@
 
 ---
 
-- Inha Mind : 인심 - 인하인의 마음을 전합니다
+- Inha Mind : 인심 - 인하인의 마음을 전합니다 :heart:
 
   채팅과 게시판을 Firebase로 구현한 앱
 
@@ -81,7 +87,7 @@
 
 ------
 
-- [BoostCourse - 안드로이드 프로그래밍](https://www.edwith.org/boostcourse-android)
+- [BoostCourse - 안드로이드 프로그래밍](https://www.edwith.org/boostcourse-android) :movie_camera:
 
   부스트 코스의 안드로이드 프로그래밍 프로젝트 A ~ H
 
@@ -97,12 +103,13 @@
 
 ---
 
-- Beer. - 비어닷
+- Beer. - 비어닷 :beers:
 
   세계맥주에 대한 정보를 담은 Application
 
   <img src= "https://user-images.githubusercontent.com/52276038/101013065-14d13e80-35a7-11eb-9848-0b9f71dd26dd.png" width="120"> <img src ="https://user-images.githubusercontent.com/52276038/101013077-17cc2f00-35a7-11eb-83fe-fc71268d4e32.png" width="120">
 
+  - 2020.07~2020.10
   - [Repository](https://github.com/landvibe-service/beereverything-android)
   - [PlayStore](https://play.google.com/store/apps/details?id=com.landvibe.beereverything)
   - 주로 ui 작업 위주로 참여
@@ -111,5 +118,21 @@
 
 ---
 
+- TMI - today's moutain information :mountain:
 
+  안전한 산행을 위해 산악인들에게 머신러닝을 기반으로한 산의 위험정도를 측정하여 알려주고 기타 기능들을 담은 어플리케이션
+
+  <img src = "https://user-images.githubusercontent.com/52276038/102360050-e1ee6800-3ff4-11eb-8ac6-244611824587.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360058-e4e95880-3ff4-11eb-92f5-fed916862641.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360080-eadf3980-3ff4-11eb-894c-4480984b0627.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360087-eca8fd00-3ff4-11eb-97f5-250db47356b7.gif" width ="120" height="200">
+
+  <img src = "https://user-images.githubusercontent.com/52276038/102360089-ed419380-3ff4-11eb-8510-c4c0ceeb3197.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360093-ee72c080-3ff4-11eb-9526-b1ef6e39fa37.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360096-ef0b5700-3ff4-11eb-878c-1b6281535e71.gif" width ="120" height="200">
+
+  
+
+  - 2020.11 ~ 2020.12
+  - [Repository - 소개 Page, 코드는 private](https://github.com/Grace-Girls/TMI)
+  - reivewer, base line, network 쪽 담당
+  - `Android 10` `Android Studio 4.0.1` `Java`
+  - `MVC pattern` `Firebase` `OpenWeatherMap API` `Google Maps`
+
+---
 
