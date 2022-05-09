@@ -60,6 +60,25 @@ rather than 'hard' and tries to 'work hard' as well.
 
 ### 프로젝트 :film_projector:
 
+
+- TMI - today's moutain information :mountain:
+
+  안전한 산행을 위해 산악인들에게 머신러닝을 기반으로한 산의 위험정도를 측정하여 알려주고 기타 기능들을 담은 어플리케이션
+
+  <img src = "https://user-images.githubusercontent.com/52276038/102360050-e1ee6800-3ff4-11eb-8ac6-244611824587.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360058-e4e95880-3ff4-11eb-92f5-fed916862641.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360080-eadf3980-3ff4-11eb-894c-4480984b0627.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360087-eca8fd00-3ff4-11eb-97f5-250db47356b7.gif" width ="120" height="200">
+
+  <img src = "https://user-images.githubusercontent.com/52276038/102360089-ed419380-3ff4-11eb-8510-c4c0ceeb3197.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360093-ee72c080-3ff4-11eb-9526-b1ef6e39fa37.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360096-ef0b5700-3ff4-11eb-878c-1b6281535e71.gif" width ="120" height="200">
+
+  
+
+  - 2020.11 ~ 2020.12
+  - [Repository - 소개 Page, 코드는 private](https://github.com/Grace-Girls/TMI)
+  - reivewer, base line, network 쪽 담당
+  - `Android 10` `Android Studio 4.0.1` `Java`
+  - `MVC pattern` `Firebase` `OpenWeatherMap API` `Google Maps`
+
+---
+
 - Sake Of Alba : 급여 관리 어플리케이션 :money_with_wings:
 
   FIrebase와 Calendar를 사용하여 급여를 관리해주는 앱
@@ -117,22 +136,3 @@ rather than 'hard' and tries to 'work hard' as well.
   - `Mvvm pattern` `Livedata` `Firebase` `Data Binding`
 
 ---
-
-- TMI - today's moutain information :mountain:
-
-  안전한 산행을 위해 산악인들에게 머신러닝을 기반으로한 산의 위험정도를 측정하여 알려주고 기타 기능들을 담은 어플리케이션
-
-  <img src = "https://user-images.githubusercontent.com/52276038/102360050-e1ee6800-3ff4-11eb-8ac6-244611824587.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360058-e4e95880-3ff4-11eb-92f5-fed916862641.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360080-eadf3980-3ff4-11eb-894c-4480984b0627.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360087-eca8fd00-3ff4-11eb-97f5-250db47356b7.gif" width ="120" height="200">
-
-  <img src = "https://user-images.githubusercontent.com/52276038/102360089-ed419380-3ff4-11eb-8510-c4c0ceeb3197.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360093-ee72c080-3ff4-11eb-9526-b1ef6e39fa37.gif" width ="120" height="200"> <img src = "https://user-images.githubusercontent.com/52276038/102360096-ef0b5700-3ff4-11eb-878c-1b6281535e71.gif" width ="120" height="200">
-
-  
-
-  - 2020.11 ~ 2020.12
-  - [Repository - 소개 Page, 코드는 private](https://github.com/Grace-Girls/TMI)
-  - reivewer, base line, network 쪽 담당
-  - `Android 10` `Android Studio 4.0.1` `Java`
-  - `MVC pattern` `Firebase` `OpenWeatherMap API` `Google Maps`
-
----
-
