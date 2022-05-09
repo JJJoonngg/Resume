@@ -79,30 +79,18 @@ rather than 'hard' and tries to 'work hard' as well.
 
 ---
 
-- Sake Of Alba : 급여 관리 어플리케이션 :money_with_wings:
+- Beer. - 비어닷 :beers:
 
-  FIrebase와 Calendar를 사용하여 급여를 관리해주는 앱
+  세계맥주에 대한 정보를 담은 Application
 
-  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79724724-f58ce600-8322-11ea-9701-b17f46f2433a.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79724734-f887d680-8322-11ea-80d2-98e92891a97d.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79724736-f9206d00-8322-11ea-8348-7d570ac795ec.png">  <img width = "180" height = "200" src ="https://user-images.githubusercontent.com/52276038/79724738-f9b90380-8322-11ea-8d2c-939e7a3e8f87.png">
+  <img src= "https://user-images.githubusercontent.com/52276038/101013065-14d13e80-35a7-11eb-9848-0b9f71dd26dd.png" width="120"> <img src ="https://user-images.githubusercontent.com/52276038/101013077-17cc2f00-35a7-11eb-83fe-fc71268d4e32.png" width="120">
 
-  - 2019.05 ~ 2019.06
-  - `Java` `Andoird` `Firebase (Push Alarm)` `Sqlite`
-
----
-
-- Inha Mind : 인심 - 인하인의 마음을 전합니다 :heart:
-
-  채팅과 게시판을 Firebase로 구현한 앱
-
-  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79721738-d3449980-831d-11ea-9a45-a7750287cfd0.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79721743-d8094d80-831d-11ea-9268-64f320a4c0b9.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79721935-29b1d800-831e-11ea-9709-af762b2ebc02.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79721943-2cacc880-831e-11ea-9bba-590af2365124.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79721949-2e768c00-831e-11ea-8b60-bc7842bd7714.png">
-
-  - 2020.01 ~ 2020.04
-
-  - [Repository](https://github.com/JJJoonngg/inhaMind)
-
-  - `Android 9` `Android Studio 3.6.1` `Java`
-
-  - `Firebase (Auth, Database)` `FireStore` `Glide` `Java Mail` 
+  - 2020.07~2020.10
+  - [Repository](https://github.com/landvibe-service/beereverything-android)
+  - [PlayStore](https://play.google.com/store/apps/details?id=com.landvibe.beereverything)
+  - 주로 ui 작업 위주로 참여
+  - `Android 10` `Android Studio 4.0.1` `kotlin`
+  - `Mvvm pattern` `Livedata` `Firebase` `Data Binding`
 
 ------
 
@@ -122,17 +110,29 @@ rather than 'hard' and tries to 'work hard' as well.
 
 ---
 
-- Beer. - 비어닷 :beers:
+- Inha Mind : 인심 - 인하인의 마음을 전합니다 :heart:
 
-  세계맥주에 대한 정보를 담은 Application
+  채팅과 게시판을 Firebase로 구현한 앱
 
-  <img src= "https://user-images.githubusercontent.com/52276038/101013065-14d13e80-35a7-11eb-9848-0b9f71dd26dd.png" width="120"> <img src ="https://user-images.githubusercontent.com/52276038/101013077-17cc2f00-35a7-11eb-83fe-fc71268d4e32.png" width="120">
+  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79721738-d3449980-831d-11ea-9a45-a7750287cfd0.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79721743-d8094d80-831d-11ea-9268-64f320a4c0b9.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79721935-29b1d800-831e-11ea-9709-af762b2ebc02.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79721943-2cacc880-831e-11ea-9bba-590af2365124.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79721949-2e768c00-831e-11ea-8b60-bc7842bd7714.png">
 
-  - 2020.07~2020.10
-  - [Repository](https://github.com/landvibe-service/beereverything-android)
-  - [PlayStore](https://play.google.com/store/apps/details?id=com.landvibe.beereverything)
-  - 주로 ui 작업 위주로 참여
-  - `Android 10` `Android Studio 4.0.1` `kotlin`
-  - `Mvvm pattern` `Livedata` `Firebase` `Data Binding`
+  - 2020.01 ~ 2020.04
+
+  - [Repository](https://github.com/JJJoonngg/inhaMind)
+
+  - `Android 9` `Android Studio 3.6.1` `Java`
+
+  - `Firebase (Auth, Database)` `FireStore` `Glide` `Java Mail` 
+
+---
+
+- Sake Of Alba : 급여 관리 어플리케이션 :money_with_wings:
+
+  FIrebase와 Calendar를 사용하여 급여를 관리해주는 앱
+
+  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79724724-f58ce600-8322-11ea-9701-b17f46f2433a.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79724734-f887d680-8322-11ea-80d2-98e92891a97d.png">  <img width = "120" height = "200" src ="https://user-images.githubusercontent.com/52276038/79724736-f9206d00-8322-11ea-8348-7d570ac795ec.png">  <img width = "180" height = "200" src ="https://user-images.githubusercontent.com/52276038/79724738-f9b90380-8322-11ea-8d2c-939e7a3e8f87.png">
+
+  - 2019.05 ~ 2019.06
+  - `Java` `Andoird` `Firebase (Push Alarm)` `Sqlite`
 
 ---
