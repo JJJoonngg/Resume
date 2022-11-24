@@ -17,7 +17,7 @@ rather than 'hard' and tries to 'work hard' as well.
 
 ### **경력** :man_factory_worker:
 
-- [모아이스](https://www.rocketpunch.com/companies/moais)
+- [모아이스](https://www.moais.co.kr)
   - 안드로이드 개발 2020.07 ~
 
 ------
