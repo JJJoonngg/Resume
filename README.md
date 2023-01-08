@@ -119,7 +119,7 @@ Inha Mind : 인심 - 인하인의 마음을 전합니다 :heart:
 <img src="img/ddd-5.png" width="100">
 
 #### **DDD - 5기 참여**
-- 기간 : 2021.01 ~ 2021.05
+- 기간 : 2021.02 ~ 2021.05
 - 역할 : 기획, 안드로이드 피쳐 개발 등
 - 직군세션 발표 관련 글 - [미디엄](https://dddstudy.medium.com/ddd-5%EA%B8%B0-%EC%A7%81%EA%B5%B0%EC%84%B8%EC%85%98-%EC%9D%B4%EC%95%BC%EA%B8%B0-c4f25748de22)
 
